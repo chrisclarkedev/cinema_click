@@ -1,1 +1,1 @@
-# Cinema Click - Movie Web App
+# Cinema Click - Movie Web Page
