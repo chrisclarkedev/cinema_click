@@ -32,7 +32,9 @@ body {
 
 header {
   background-color: #773385;
+  display: flex;
   padding: 1rem;
+  justify-content: flex-end;
 }
 .movie-container {
   display: flex;
@@ -49,6 +51,10 @@ header {
 
 .movie-info h3 {
   margin: 0;
+}
+
+.movie-info span {
+  color: rgb(246, 183, 23);
 }
 
 .movie-overview {
