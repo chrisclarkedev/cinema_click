@@ -49,10 +49,15 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  color: #894994;
+  color: black;
   padding: 1rem;
-  transform: translateY(100%);
+  transform: translateY(102%);
   transition: transform 0.3s ease-in-out;
+  overflow: auto;
+  max-height: 100%;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  box-shadow: 0 -3px 5px rgba(0, 0, 0, 0.1);
 }
 
 .movie:hover .movie-overview {
