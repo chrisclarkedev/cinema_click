@@ -12,6 +12,10 @@ body {
   margin: 0;
 }
 
+.root {
+  flex-direction: column;
+  display: flex;
+}
 .movie {
   width: 300px;
   margin: 1rem;
@@ -26,6 +30,10 @@ body {
   max-width: 100%;
 }
 
+header {
+  background-color: #773385;
+  padding: 1rem;
+}
 .movie-container {
   display: flex;
   flex-wrap: wrap;
