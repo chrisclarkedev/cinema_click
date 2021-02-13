@@ -18,7 +18,7 @@ const Movie = ({ title, poster_path, overview, vote_average }) => (
       src={
         poster_path
           ? IMG_API + poster_path
-          : "https://kicksdigitalmarketing.com/wp-content/uploads/2019/09/iStock-1142986365.jpg"
+          : "https://www.publicdomainpictures.net/pictures/280000/velka/not-found-image-15383864787lu.jpg"
       }
       alt={title}
     />
