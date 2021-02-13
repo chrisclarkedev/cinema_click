@@ -14,7 +14,14 @@ const setVoteClass = (vote) => {
 
 const Movie = ({ title, poster_path, overview, vote_average }) => (
   <div className="movie">
-    <img src={IMG_API + poster_path} alt={title} />
+    <img
+      src={
+        poster_path
+          ? IMG_API + poster_path
+          : "https://kicksdigitalmarketing.com/wp-content/uploads/2019/09/iStock-1142986365.jpg"
+      }
+      alt={title}
+    />
     <div className="movie-info">
       <h3>{title}</h3>
       <span className={`tag ${setVoteClass(vote_average)}`}>
