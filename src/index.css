@@ -46,6 +46,11 @@ header {
   font-family: inherit;
   font-size: 1.2rem;
 }
+
+.search:focus {
+  outline: 0;
+}
+
 .movie-container {
   display: flex;
   flex-wrap: wrap;
@@ -61,11 +66,6 @@ header {
 
 .movie-info h3 {
   margin: 0;
-}
-
-.movie-info span {
-  color: rgb(246, 183, 23);
-  background-color: #572761;
 }
 
 .movie-overview {
@@ -87,4 +87,25 @@ header {
 
 .movie:hover .movie-overview {
   transform: translateX(0%);
+}
+
+.tag {
+  background-color: #894994;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.tag.green {
+  color: rgb(7, 161, 7);
+  font-weight: bold;
+}
+
+.tag.red {
+  color: red;
+  font-weight: bold;
+}
+
+.tag.orange {
+  color: orange;
+  font-weight: bold;
 }
