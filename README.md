@@ -27,9 +27,17 @@ Constantly updates top 20 movies.
 
 Display movie name, rating, and description of film.
 
+Hover effect that shows a brief overview of the movie.
+
+Hover effect appears from the bottom of the movie poster and moves upward.
+
+Movie rating that is color coordinated.
+
+Ratings colors (rating >= 8) "green", (rating > 6) "orange", (rating <= 6) "red".
+
 Search movie function that allows user to search their favorite movie and display it if it exists in the DB aswell as show similar movies with similar name to what was searched.
 
-Concise UI aswell as media queried for mobile use.
+Mobile ready.
 
 &nbsp;
 
