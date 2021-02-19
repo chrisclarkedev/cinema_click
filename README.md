@@ -54,4 +54,4 @@ Mobile ready.
 
 - Client-Side
   - GET request
-  - react
+  - React
