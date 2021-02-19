@@ -2,7 +2,7 @@
 
 # Cinema Click - Movie Web Page
 
-Click [here](http://cinema-clicks.surge.sh) for a live demo!
+Click [here](http://cinema-cliks.surge.sh) for a live demo!
 
 ## Description
 
