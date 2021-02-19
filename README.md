@@ -23,19 +23,23 @@ Webpage that shows the most popular movies currently. This uses the "TMDb" datab
 
 Webpage that displays the most popular movies in cinema.
 
-Constantly updates top 20 movies.
+Constantly updates from "TMDb".
 
-Display movie name, rating, and description of film.
+Will display concurrent top 20 movies.
 
-Hover effect that shows a brief overview of the movie.
+Information displayed are movie name, rating, and brief overview.
+
+Hover effect that shows a brief overview of movie that cursor is on.
 
 Hover effect appears from the bottom of the movie poster and moves upward.
 
 Movie rating that is color coordinated.
 
-Ratings colors (rating >= 8) "green", (rating > 6) "orange", (rating <= 6) "red".
+Rating colors (rating >= 8) "green", (rating > 6) "orange", (rating <= 6) "red".
 
-Search movie function that allows user to search their favorite movie and display it if it exists in the DB aswell as show similar movies with similar name to what was searched.
+Search movie function that allows user to search their favorite movie and display it if it exists in the DB.
+
+Movies searched that have similar names displayed aswell.
 
 Mobile ready.
 
