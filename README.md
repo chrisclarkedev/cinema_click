@@ -6,7 +6,7 @@ Click [here](http://cinema-cliks.surge.sh) for a live demo!
 
 ## Description
 
-Webpage that shows the most popular movies currently. This uses the "TMDb" database to gather the latest and greatest of all the movies in cinema out worldwide. Page also allows you to search for specific movies and will show the user name, rating and a brief description of the film.
+Webpage that shows the most popular movies currently. This uses the "TMDb" database to gather the latest and greatest of all the movies in cinema out worldwide. Page also allows you to search for specific movies and will show the movie name, rating and a brief description of the film.
 
 **Expected Challenges**
 
